@@ -8,6 +8,8 @@
 
 <img src="/public/images/register.png" width="75%" height="75%" />
 
+<img src="/public/images/new-user-database.png" width="75%" height="75%" />
+
 #
 
 #### Creating and Displaying Chirp
@@ -16,6 +18,7 @@
 
 From the image above two chirps are created by **Venia Sollery**. After user press `CHIRPZZZ` button it the chirps will be displayed and added to the database.
 
+<img src="/public/images/chirp-database.png" width="75%" height="75%" />
 #
 
 #### Updating Chirps
@@ -28,6 +31,8 @@ The image above shows the `edit` button when the user click on the three dots.
 
 Here is the image form and updated chirp.
 
+<img src="/public/images/data-edit.png" width="75%" height="75%" />
+
 #
 
 ### Deleting Chirps
@@ -39,6 +44,8 @@ The `delete` button is accesible under the edit button and all use need to do is
 <img src="/public/images/after-deletion.png" width="75%" height="75%" />
 
 After the use click on it, the chirp will no longer be displayed and also deleted from the database.
+
+<img src="/public/images/chirp-database.png" width="75%" height="75%" />
 
 #
 
